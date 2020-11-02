@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AistdTest.cpp
+     Создается библиотека C:\Users\vlaso\Desktop\tipoy4ys'\AISTD1.2\Debug\AistdTest.lib и объект C:\Users\vlaso\Desktop\tipoy4ys'\AISTD1.2\Debug\AistdTest.exp
+AistdTest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::push_back(int)" (?push_back@?$List@H@@QAEXH@Z) в функции "public: void __thiscall AistdTest::AistdTest::InsertBackList(void)" (?InsertBackList@AistdTest@1@QAEXXZ).
+AistdTest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __thiscall List<int>::at(int)" (?at@?$List@H@@QAEHH@Z) в функции "public: void __thiscall AistdTest::AistdTest::at_first(void)" (?at_first@AistdTest@1@QAEXXZ).
+AistdTest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::push_front(int)" (?push_front@?$List@H@@QAEXH@Z) в функции "public: void __thiscall AistdTest::AistdTest::InsertBackList(void)" (?InsertBackList@AistdTest@1@QAEXXZ).
+AistdTest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::insert(int,int)" (?insert@?$List@H@@QAEXHH@Z) в функции "public: void __thiscall AistdTest::AistdTest::insert_first(void)" (?insert_first@AistdTest@1@QAEXXZ).
+AistdTest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::removeAt(int)" (?removeAt@?$List@H@@QAEXH@Z) в функции "public: void __thiscall AistdTest::AistdTest::removeAt_first(void)" (?removeAt_first@AistdTest@1@QAEXXZ).
+AistdTest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::pop_back(void)" (?pop_back@?$List@H@@QAEXXZ) в функции "public: void __thiscall AistdTest::AistdTest::pop_back_first(void)" (?pop_back_first@AistdTest@1@QAEXXZ).
+AistdTest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::Set(int,int)" (?Set@?$List@H@@QAEXHH@Z) в функции "public: void __thiscall AistdTest::AistdTest::set_first(void)" (?set_first@AistdTest@1@QAEXXZ).
+AistdTest.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::InsertList(class List<int>,int)" (?InsertList@?$List@H@@QAEXV1@H@Z) в функции "public: void __thiscall AistdTest::AistdTest::InsertBackList(void)" (?InsertBackList@AistdTest@1@QAEXXZ).
+C:\Users\vlaso\Desktop\tipoy4ys'\AISTD1.2\Debug\AistdTest.dll : fatal error LNK1120: неразрешенных внешних элементов: 8
